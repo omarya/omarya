@@ -1,8 +1,8 @@
-🍄 Product Designer @revance
-🚀 Young Jury @awwwards 
-🎓 UX Design Graduate @treehouse
-🌱 Sharing design, lifestyle & thoughts
-💎 XR (AR/VR) enthusiast
+- 🍄 Product Designer @revance
+- 🚀 Young Jury @awwwards 
+- 🎓 UX Design Graduate @treehouse
+- 🌱 Sharing design, lifestyle & thoughts
+- 💎 XR (AR/VR) enthusiast
 
 <!---
 omarya/omarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
