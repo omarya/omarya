@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @omarya
-- 👀 I’m interested in Product Design (UX & UI)
-- 🌱 I’m currently learning AR/VR Design
-- 💞️ I’m looking to collaborate on Designing related products
-- 📫 Drop me a mail at hi@omarya.in
+🍄 Product Designer @revance
+🚀 Young Jury @awwwards 
+🎓 UX Design Graduate @treehouse
+🌱 Sharing design, lifestyle & thoughts
+💎 XR (AR/VR) enthusiast
 
 <!---
 omarya/omarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
